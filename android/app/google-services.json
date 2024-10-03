@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747249749147",
+    "project_id": "live-stream-6648a",
+    "storage_bucket": "live-stream-6648a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747249749147:android:239d7c125f259b50d28a3e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_email"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747249749147-i080bgpshd3f88ja52u627g5c6hj5glb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAnWMgoTHRyriIWWxZiF6tqS3lh_A4zAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747249749147-i080bgpshd3f88ja52u627g5c6hj5glb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
